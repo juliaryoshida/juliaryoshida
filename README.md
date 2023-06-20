@@ -1,6 +1,16 @@
-<h2 align="left">Hi 👋! My name is Júlia Yoshida and I'm a Software Engineer student at UnB.</h2>
+<h2 align="left">Hi 👋</h2>
 
 ###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">- 📚 My name is Júlia Yoshida and I'm a Software Engineer student at UnB</p>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juliaryoshida&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -9,9 +19,10 @@
 
 ###
 
-<img align="right" height="300" src="octocat-1687268809073.png"  />
-
 ###
+
+<h3 align="left">🛠 Language and tools</h3>
+<img align="right" height="300" src="octocat-1687268809073.png"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -33,6 +44,8 @@
 
 ###
 
+<h3 align="left">👩‍💻 Social Media</h3>
+
 <div align="left">
   <a href="https://www.instagram.com/juliaryoshida/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -41,8 +54,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
 
 <br clear="both">
 
