@@ -1,15 +1,3 @@
-<h2 align="left">Hi 👋</h2>
-
-###
-
-<h3 align="left">👩‍💻  About me</h3>
-
-###
-
-<p align="left">📚 My name is Júlia Yoshida and I'm a Software Engineer student at UnB</p>
-
-###
-
 <h3 align="left">🔥   My stats </h3>
 
 <div align="left">
