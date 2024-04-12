@@ -1,3 +1,6 @@
+<h3 align="left">🌸   About me</h3>
+<p> I'm currently working as a game developer in a project in partnership with BRISA which is an ICT(Information and Communication Technology) organization. The purpose of the project is to develop a game aiming to represent underrepresented groups in the technology world. I'm coding in Unity using C# and creating pixel art animation sprites in Aseprite software.</p>
+
 <h3 align="left">🔥   My stats </h3>
 
 <div align="left">
