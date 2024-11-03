@@ -1,16 +1,9 @@
-<h3 align="left">🌸   About me</h3>
-<p style="text-indent: 50px;text-align: justify;"> I'm currently working as a game developer in a project in partnership with BRISA which is an ICT(Information and Communication Technology) organization. The purpose of the project is to develop a game aiming to represent underrepresented groups in the technology world. I'm coding in Unity using C# and creating pixel art animation sprites in Aseprite software.</p>
-
 <h3 align="left">🔥   My stats </h3>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=juliaryoshida&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliaryoshida&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 <img align="right" height="200" src="octocat-1687268809073.png"  />
@@ -32,8 +25,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
-
-###
 
 <h3 align="left">👩‍💻Contact me</h3>
 
